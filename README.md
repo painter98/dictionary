@@ -1,2 +1,2 @@
 # dictionary
-the project about building, searching the words in the dictionary
+the project about adding, searching the words in the dictionary
